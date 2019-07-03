@@ -11,3 +11,6 @@ push
 # Último Paso 
 
 Pull
+
+
+Note: No one will be left behind here.
