@@ -7,3 +7,7 @@ Este es mi primer proyecto de prueba.
 clone
 commit
 push
+
+# Último Paso 
+
+Pull
